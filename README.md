@@ -1,4 +1,4 @@
-# evento-omnistack
+# Evento - Semana Omnistack
 Repositório criado para acompanhamento da aulas da Semana Omnistack 11 realizado pela Rocketseat.
 
 ### Tecnologias utilizadas:
